@@ -1,0 +1,6 @@
+{
+  "name": "BhuNiti - National Land Governance & Policy Innovation Platform",
+  "description": "Evidence-based research, GIS geospatial intelligence, policy simulation, and innovation platform for the Department of Land Resources (DoLR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
